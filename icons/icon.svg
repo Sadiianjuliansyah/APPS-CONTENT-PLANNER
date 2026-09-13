@@ -1,0 +1,31 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="512"
+  height="512"
+  viewBox="0 0 512 512"
+>
+  <rect width="512" height="512" rx="112" fill="#0b1120"/>
+
+  <rect
+    x="48"
+    y="48"
+    width="416"
+    height="416"
+    rx="92"
+    fill="#3978ff"
+  />
+
+  <g
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="32"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <!-- Huruf C -->
+    <path d="M222 190 H182 Q150 190 150 222 V290 Q150 322 182 322 H222"/>
+
+    <!-- Huruf P -->
+    <path d="M282 322 V190 H322 Q358 190 358 226 Q358 262 322 262 H282"/>
+  </g>
+</svg>
