@@ -1,7 +1,7 @@
 "use strict";
 
 // Naikkan versi saat memperbarui file aplikasi nanti.
-const CACHE_VERSION = "v1";
+const CACHE_VERSION = "v2";
 
 // Nama cache dipisahkan berdasarkan lokasi Content Planner.
 const CACHE_PREFIX =
